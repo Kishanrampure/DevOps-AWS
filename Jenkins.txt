@@ -1,0 +1,11 @@
+pipeline{
+     
+     angent any
+     stages{
+          stage('Build'){
+               steps{ echo 'Build Complted'
+      }
+    }
+  }
+
+}
