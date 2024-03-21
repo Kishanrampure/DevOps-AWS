@@ -1,2 +1,0 @@
-# DevOps-AWS
-DevOps-CICD-AWS-PROJECTS
